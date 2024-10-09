@@ -52,7 +52,6 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
-    "@floating-ui/dom": "1.1.1",
     "@floating-ui/react": "0.19.2",
     "date-fns": "2.29.3"
   },
